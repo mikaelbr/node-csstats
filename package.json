@@ -1,0 +1,12 @@
+{
+  "name": "csstats",
+  "version": "0.1.0",
+  "description": "Parse AMX Mod X Stats File",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/mikaelbr/node-csstats.git",
+  "author": "Mikael Brevik",
+  "license": "MIT"
+}
